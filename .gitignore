@@ -1,0 +1,12 @@
+Data/
+bin/
+obj/
+.gitgnore
+.vscode/
+
+./version-number-to.sh 1.0 
+$ git commit -a -m "Version 0.1.0-(beta)"  
+
+git checkout -b release-1.0 develop  
+./version-number-to.sh 1.0 
+git commit -a -m "Version 0.1.0-(beta)"  
