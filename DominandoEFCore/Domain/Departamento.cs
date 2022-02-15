@@ -1,6 +1,7 @@
-using System.Globalization;
 using System.Collections.Generic;
-namespace ProjetoDominandoEntity.Domain
+using DominandoEFCore.Domain;
+
+namespace DominandoEFCore.Domain
 {
     public class Departamento
     {
