@@ -1,6 +1,6 @@
+using DominandoEFCore..vscode.Domain;
 
-namespace ProjetoDominandoEntity.Domain
-
+namespace DominandoEFCore.Domain
 {
     public class Funcionario
     {
