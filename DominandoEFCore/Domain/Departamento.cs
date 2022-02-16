@@ -1,14 +1,14 @@
+using System;
 using System.Collections.Generic;
-using DominandoEFCore.Domain;
+using Microsoft.EntityFrameworkCore.Infrastructure;
 
 namespace DominandoEFCore.Domain
 {
     public class Departamento
     {
-      public int Id { get; set; }
-      public string Descricao { get; set; }   
-      public bool Ativo { get; set; }  
+        public int Id { get; set; }
+        public string Descricao { get; set; }
+        public bool Ativo { get; set; }
 
-      public List<Funcionario> Funcionarios { get; set; } 
-    }
+    }    
 }
