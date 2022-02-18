@@ -7592,11 +7592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoDominandoEntity\\DominandoEFCore\\DominandoEFCore.csproj",
+      "projectUniqueName": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoDominandoEntity\\DominandoEFCore\\DominandoEFCore.csproj",
       "projectName": "DominandoEFCore",
-      "projectPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoDominandoEntity\\DominandoEFCore\\DominandoEFCore.csproj",
+      "projectPath": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoDominandoEntity\\DominandoEFCore\\DominandoEFCore.csproj",
       "packagesPath": "C:\\Users\\yam.claro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoDominandoEntity\\DominandoEFCore\\obj\\",
+      "outputPath": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoDominandoEntity\\DominandoEFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yam.claro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7654,16 +7654,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.14, 5.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

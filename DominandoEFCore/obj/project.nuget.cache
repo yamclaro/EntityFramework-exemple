@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YCIkBuLxvy5l0qTCf8Raf/ukC9Ts1whcMAS94PRQhl1ZFZZZa7ecuv1h7BGwjUG7ffosquGpZRxN485E81amhQ==",
+  "dgSpecHash": "BnCc1cORcbx4U92sF3KgqgxUXu1y5IqK12IKi6Gz9l4pyqINrvEOcuJi5rmUlBdq2BCGnITwW8ZvfEp6oaCgxg==",
   "success": true,
   "projectFilePath": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoDominandoEntity\\DominandoEFCore\\DominandoEFCore.csproj",
   "expectedPackageFiles": [
@@ -139,9 +139,7 @@
     "C:\\Users\\yam.claro\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\yam.claro\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\yam.claro\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\yam.claro\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\yam.claro\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\yam.claro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+    "C:\\Users\\yam.claro\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
